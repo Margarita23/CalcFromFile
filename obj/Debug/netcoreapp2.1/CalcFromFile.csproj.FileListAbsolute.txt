@@ -1,0 +1,11 @@
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/obj/Debug/netcoreapp2.1/CalcFromFile.csprojAssemblyReference.cache
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/obj/Debug/netcoreapp2.1/CalcFromFile.csproj.CoreCompileInputs.cache
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/obj/Debug/netcoreapp2.1/CalcFromFile.AssemblyInfoInputs.cache
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/obj/Debug/netcoreapp2.1/CalcFromFile.AssemblyInfo.cs
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/bin/Debug/netcoreapp2.1/CalcFromFile.deps.json
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/bin/Debug/netcoreapp2.1/CalcFromFile.runtimeconfig.json
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/bin/Debug/netcoreapp2.1/CalcFromFile.runtimeconfig.dev.json
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/bin/Debug/netcoreapp2.1/CalcFromFile.dll
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/bin/Debug/netcoreapp2.1/CalcFromFile.pdb
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/obj/Debug/netcoreapp2.1/CalcFromFile.dll
+/Users/margarita/Documents/programming/ISD_course/CalcFromFile/obj/Debug/netcoreapp2.1/CalcFromFile.pdb
